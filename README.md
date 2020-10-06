@@ -1,2 +1,2 @@
-# Coursera_Capstone3
+# Coursera_Capstone
 Using the data to solve problems
